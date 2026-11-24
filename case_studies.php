@@ -33,7 +33,21 @@
     </section>
 
     <section>
+        <div>
+            <h3>Unrest across North America</h3>
+            <p>While the USA has been the world leader in data center construction, boasting 5044 as of October 9th, 2026 (Statista, 2026). However public opinion appears to be turning. 142 protests were organised by HumansFirst across 42 US states in July 2026. The group aimed to disrupt what they termed <i>"unaccountable"</i> construction, and <i>"unacceptable infringement on our liberty"</i>(US News, 2026). The issue is particularly divisive in swing states, and the group's founder, Amy Kremer noted there needed to be a legal middleground between Republicans giving tech comapanies a "Free Pass" and Democrats rooting for a total moratorium on data centre development.</p>
+            <p>Further north, in Canada many provinces are also fighting back against proposed developments, particularly in British Columbia, Ontario, and Saskatchewan. In the city of Hamilton, Ontario, hundreds gathered outside the city hall to demonstrate against allocation of land for "hyperscale and enterprise data centres". In Vancouver, residents marched against the construction of two data centre complexes, citing increased demand on water and electricity while the city faces water restrictions (CBC, 2026). In both cases, protesters were successful and the developments were ultimately called off, with officials citing concerns about pollution and the local community.</p>
+        </div>
+        <figure>
+            <img src="img/dublin_protest_rte.webp"/>
+            <figcaption>Data Centre Protest in Hamilton, Ontario (CBC, 2026).</figcaption>
+        </figure>
     </section>
+
+    <section>
+        <h3>The Future of Law Surrounding Data Centres:</h3>
+        <p>Every month, I hear more and more stories about demonstrations or unrest surrounding the expansion and development of new data infrastructure. Considering the water and energy needed for this technology to function, I think it's reasonable to conclude that the opponents of these developments have a point. There can be no doubt that the technology is necessary, and critical to modern life - after all, I work in an industry whose growth is made possible by cloud computing - however I feel society is at a tipping point where we must concretely determine what boundaries we place on Big Tech companies. The sooner we reach a consenus on what is legally and ethically permissable, the sooner we can switch to the development of more sustainable, less damaging data solutions.</p>
+    </section>  
     
 </body>
 </html>
